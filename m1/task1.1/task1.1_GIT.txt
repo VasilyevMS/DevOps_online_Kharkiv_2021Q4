@@ -1,0 +1,26 @@
+4e6a7c7 (HEAD -> main, origin/main) HEAD@{0}: merge develop: Merge made by the 'recursive' strategy.
+201fb29 HEAD@{1}: checkout: moving from develop to main
+4f73387 (origin/develop, develop) HEAD@{2}: merge styles: Merge made by the 'recursive' strategy.
+ee85e8b HEAD@{3}: merge images: Merge made by the 'recursive' strategy.
+38b051e (origin/task1.1, task1.1) HEAD@{4}: checkout: moving from styles to develop
+327b98d (origin/styles, styles) HEAD@{5}: checkout: moving from develop to styles
+38b051e (origin/task1.1, task1.1) HEAD@{6}: checkout: moving from images to develop
+4ec42ad (origin/images, images) HEAD@{7}: commit: I've edited html file
+114e4bd HEAD@{8}: commit: I've edited html file
+13246af HEAD@{9}: checkout: moving from develop to images
+38b051e (origin/task1.1, task1.1) HEAD@{10}: commit: I've created html file
+2a74a6a HEAD@{11}: checkout: moving from main to develop
+201fb29 HEAD@{12}: commit: I've made some changes to README
+2a74a6a HEAD@{13}: checkout: moving from develop to main
+2a74a6a HEAD@{14}: checkout: moving from styles to develop
+327b98d (origin/styles, styles) HEAD@{15}: commit: Last changes have been saved
+2a74a6a HEAD@{16}: checkout: moving from develop to styles
+2a74a6a HEAD@{17}: checkout: moving from images to develop
+13246af HEAD@{18}: commit: Images have been added toimages folder
+4d698a4 HEAD@{19}: checkout: moving from develop to images
+2a74a6a HEAD@{20}: checkout: moving from images to develop
+4d698a4 HEAD@{21}: commit: Images folder for our web page has been created
+2a74a6a HEAD@{22}: checkout: moving from main to images
+2a74a6a HEAD@{23}: checkout: moving from develop to main
+2a74a6a HEAD@{24}: checkout: moving from main to develop
+2a74a6a HEAD@{25}: commit (initial): readme.txt has been added
